@@ -1,1 +1,1 @@
-No such file or directory
+Display the contents list of your current directory in a long format
